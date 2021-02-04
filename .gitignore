@@ -16,3 +16,6 @@
 src/main/liberty/config/server.env
 src/main/resources/localdev-config.json
 /.pydevproject
+
+/pipeline-build-config.yaml
+/.idea
